@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1656672107",
-      "filename": "lineage-19.1-20220701-UNOFFICIAL-lava.zip",
-      "id": "710061452a3f826981cf7f7a5328cf28ed498a5306f56baa40a859636de4bf19",
+      "datetime": "1657016097",
+      "filename": "lineage-19.1-20220705-UNOFFICIAL-onclite.zip",
+      "id": "8acce9c0b8ed4113121d7fccae48afd0b8684f517969b9af33ed73a74b67b4e3",
       "romtype": "UNOFFICIAL",
-      "size": "994029225",
-      "url": "https://github.com/WolfAURman/ota_update_flos/releases/download/lava_lineage-19.1_1656672107/lineage-19.1-20220701-UNOFFICIAL-lava.zip",
+      "size": "972912213",
+      "url": "https://github.com/Fuss-in-android/flos_ota_update_f/releases/download/onclite_lineage-19.1_1657016097/lineage-19.1-20220705-UNOFFICIAL-onclite.zip",
       "version": "19.1"
     }
   ]
