@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1657016097",
-      "filename": "lineage-19.1-20220705-UNOFFICIAL-onclite.zip",
-      "id": "8acce9c0b8ed4113121d7fccae48afd0b8684f517969b9af33ed73a74b67b4e3",
+      "datetime": "1657750930",
+      "filename": "lineage-19.1-20220713-UNOFFICIAL-onclite.zip",
+      "id": "f1011f39f7c0c8d0546367774d64eda047ccc4bd7b073f8b9089ef0a9debbecc",
       "romtype": "UNOFFICIAL",
-      "size": "972912213",
-      "url": "https://github.com/Fuss-in-android/flos_ota_update_f/releases/download/onclite_lineage-19.1_1657016097/lineage-19.1-20220705-UNOFFICIAL-onclite.zip",
+      "size": "973683548",
+      "url": "https://github.com/Fuss-in-android/flos_ota_update_f/releases/download/onclite_lineage-19.1_1657750930/lineage-19.1-20220713-UNOFFICIAL-onclite.zip",
       "version": "19.1"
     }
   ]
